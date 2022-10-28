@@ -9,4 +9,4 @@ how to setup :
 -         sql password: 123456789
 - edit those config in utils/DatabaseConnection.java
 - then, import the sql file to the database
-- 
+- Enjoy
