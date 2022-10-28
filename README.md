@@ -1,12 +1,19 @@
 # ljsa_java8
-- JAVA_VERSION = 8;
-- FX_VERSION = 8;
-- By ManassehRandriamitsiry
 
-how to setup :
-- default Main : Main
-- default sql user : root
--         sql password: 123456789
-- edit those config in utils/DatabaseConnection.java
-- then, import the sql file to the database
-- Enjoy
+- By ManassehRandriamitsiry
+- This code is under licence of Lycee Joel Sylvain (not open source)
+
+how to set up :
+- default Main : 
+-     Main
+-     JAVA_VERSION = 8;
+-     FX_VERSION = 8(Embabed with java8);
+- default sql config :
+-     dbUser: root
+-     password: 123456789
+- You can edit those sql config at:
+-     src/main/java/com.manasseh.ljsa/utils/DatabaseConnection.java
+- then, import the sql file to the database:
+-     ljsa.sql
+- !!! don't forget to change your JAVA_VERSION to 8
+- enjoy
