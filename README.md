@@ -2,6 +2,7 @@
 
 - By ManassehRandriamitsiry
 - This code is under licence of Lycee Joel Sylvain (not open source)
+- This is not the last version (codes messy and not complete)
 
 how to set up :
 - default Main : 
