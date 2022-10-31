@@ -1,4 +1,4 @@
-# ljsa_java8
+# ljsa_java8_public version
 
 - By ManassehRandriamitsiry
 - This code is under licence of Lycee Joel Sylvain (not open source)
